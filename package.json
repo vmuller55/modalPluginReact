@@ -1,0 +1,26 @@
+{
+  "name": "modalpluginreact",
+  "version": "1.0.0",
+  "description": "react modal component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vmuller55/modalPluginReact.git"
+  },
+  "keywords": [
+    "react",
+    "modal"
+  ],
+  "author": "Muller Vincent",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vmuller55/modalPluginReact/issues"
+  },
+  "homepage": "https://github.com/vmuller55/modalPluginReact#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0"
+  }
+}
