@@ -1,7 +1,4 @@
-import React from 'react';
-import './modal.css'
-
-function Modal(props) {
+function Modal() {
     return  (
         <div className="modal-container">
             <div className="modal"> 
